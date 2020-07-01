@@ -144,3 +144,51 @@ footer p {
 
 }
 
+/* modal */
+
+.modal-overlay.active{
+  opacity: 1;
+  visibility: visible;
+}
+
+.container-modal {
+  width: 100%;
+  max-width: 660px;
+  background: #fcfcfc;
+  border-radius: 16px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.container-modal img {
+  width: 600px;
+  max-height: 200px;
+  margin: 30px 0 20px 0;
+  border-radius: 16px;
+}
+
+.container-modal h2 {
+  font-size: 24px;
+  color: #111111;
+  text-align: center;
+  margin-bottom: 5px;
+  font-weight: normal;
+}
+
+.container-modal p {
+  font-size: 18px;
+  color: #777777;
+  text-align: center;
+  padding-bottom: 60px;
+}
+
+.container-modal a  {
+  font-size: 16px;
+  color: #999999;
+  margin-bottom: 30px;
+}
+

@@ -30,7 +30,10 @@
   3. JAVASCRIPT
   4. VSCODE
 
- 
+
+  ### Operating system
+  
+   Linux Mint
 
  
 

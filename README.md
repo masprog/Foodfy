@@ -28,10 +28,8 @@
   1. HTML
   2. CSS
   3. JAVASCRIPT
-  4. NODEJS
-  5. EXPRESS
-  6. NUNJUCKS
-  7. VSCODE
+  4. VSCODE
+
  
 
  

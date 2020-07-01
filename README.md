@@ -33,7 +33,7 @@
 
   ### Operating system
   
-    1. Linux Mint
+   1. Linux Mint
 
  
 

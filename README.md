@@ -13,8 +13,8 @@
  <hr>
  
  ##
- ## Sobre
-![sobre](https://user-images.githubusercontent.com/26737849/86236151-7ffa8d00-bb91-11ea-9482-ab1af74cbeec.png)
+ ## Receitas
+![receitas](https://user-images.githubusercontent.com/26737849/86236475-0c0cb480-bb92-11ea-8c9b-548c16e6612e.png)
  <hr>
  
 

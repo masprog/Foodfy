@@ -8,7 +8,7 @@
  
  ##
  ## Sobre
-![sobre](https://user-images.githubusercontent.com/26737849/86235752-d5826a00-bb90-11ea-8ece-80e6281dda45.png)
+![sobre](https://user-images.githubusercontent.com/26737849/86236151-7ffa8d00-bb91-11ea-9482-ab1af74cbeec.png)
  <hr>
  
 

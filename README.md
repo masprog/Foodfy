@@ -22,5 +22,16 @@
 ![receitas-modal](https://user-images.githubusercontent.com/26737849/86237071-05cb0800-bb93-11ea-8ff6-fc09e63065f0.png)
  <hr>
  
+ Tools and Technologies
+
+    HTML
+    CSS
+    JAVASCRIPT
+    NODEJS
+    EXPRESS
+    NUNJUCKS
+    VSCODE
+
+ 
 
 

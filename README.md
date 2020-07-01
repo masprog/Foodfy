@@ -19,7 +19,7 @@
  
  ##
  ## Receitas Modal
-![receitas](https://user-images.githubusercontent.com/26737849/86236475-0c0cb480-bb92-11ea-8c9b-548c16e6612e.png)
+![receitas-modal](https://user-images.githubusercontent.com/26737849/86237071-05cb0800-bb93-11ea-8ff6-fc09e63065f0.png)
  <hr>
  
 
